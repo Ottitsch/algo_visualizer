@@ -6,6 +6,9 @@ Heavily Inspired by the famous https://www.youtube.com/watch?v=kPRA0W1kECg
 This Python script visualizes various sorting algorithms using the Tkinter GUI library.  
 It generates a random array of numbers and displays the sorting process in real time as different algorithms are executed.
 
+## Output
+https://github.com/user-attachments/assets/fad4a097-bfe3-4d3a-9a46-c4b6fa58be49
+
 ## Features
 
 - **Sorting Algorithm Visualization**: Watch sorting algorithms in action as they progressively sort an array.
@@ -13,9 +16,6 @@ It generates a random array of numbers and displays the sorting process in real 
 - **Interactive UI**: Simple button-based interface to select and execute sorting algorithms.
 - **Real-time Updates**: The visualization dynamically updates as the algorithm progresses.
 - **Reset Functionality**: Regenerate a new randomized array for further testing.
-
-## Output
-https://github.com/user-attachments/assets/fad4a097-bfe3-4d3a-9a46-c4b6fa58be49
 
 ## Installation
 
